@@ -1,8 +1,8 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-##Output
+## Output
 ![Screenshot_1688364873](https://github.com/Ghauoor/password-gen-app-react-native/assets/92637639/2bb2d1a6-a816-4c37-a9f3-18f89af8a093)
-##Features:
+## Features:
 I use formik and yup to validate the forms 
 
 
